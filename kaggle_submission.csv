@@ -1,0 +1,401 @@
+ID,Expected
+0,find_restaurant|restaurant-name=golden wok
+1,find_hotel|hotel-type=hotel hotel
+2,find_hotel|hotel-area=north|hotel-stars=4|hotel-type=hotel
+3,find_restaurant|restaurant-food=asian oriental|restaurant-pricerange=cheap
+4,find_hotel
+5,find_hotel|hotel-area=east|hotel-pricerange=cheap
+6,find_restaurant|restaurant-food=modern european|restaurant-pricerange=moderate
+7,find_restaurant|restaurant-area=south|restaurant-food=indian|restaurant-pricerange=expensive
+8,find_hotel
+9,find_hotel|hotel-pricerange=moderate|hotel-type=guesthouse
+10,find_hotel|hotel-name=carolina bed and breakfast
+11,find_hotel|hotel-area=north|hotel-type=guesthouse
+12,find_restaurant|restaurant-area=north|restaurant-food=french
+13,find_hotel|hotel-parking=yes
+14,find_restaurant|restaurant-food=indian|restaurant-pricerange=expensive
+15,find_restaurant|restaurant-name=chiquito restaurant bar
+16,find_restaurant|restaurant-name=charlie chan
+17,find_restaurant|restaurant-food=chinese|restaurant-pricerange=cheap
+18,find_restaurant|restaurant-name=pizza hut fen ditton
+19,find_hotel|hotel-type=guesthouse
+20,find_hotel|hotel-pricerange=moderate|hotel-stars=2
+21,find_hotel|hotel-pricerange=expensive|hotel-stars=3
+22,find_hotel|hotel-area=north
+23,find_restaurant|restaurant-area=south|restaurant-pricerange=expensive
+24,find_hotel|hotel-parking=yes|hotel-type=hotel
+25,find_hotel
+26,find_restaurant|restaurant-area=centre
+27,find_restaurant|restaurant-name=meghna
+28,find_hotel
+29,find_hotel|hotel-name=and b guest house
+30,find_restaurant
+31,find_restaurant|restaurant-area=east|restaurant-pricerange=expensive
+32,find_hotel|hotel-pricerange=expensive
+33,find_hotel|hotel-pricerange=moderate
+34,find_hotel|hotel-pricerange=cheap|hotel-type=hotel
+35,find_hotel|hotel-area=west|hotel-stars=4
+36,find_restaurant|restaurant-pricerange=cheap
+37,find_restaurant
+38,find_restaurant|restaurant-name=bedouin
+39,find_restaurant|restaurant-pricerange=expensive
+40,find_hotel
+41,find_hotel|hotel-name=carolina bed and breakfast
+42,find_restaurant|restaurant-food=swedish|restaurant-pricerange=moderate
+43,find_restaurant|restaurant-food=chinese
+44,find_hotel|hotel-area=east
+45,find_restaurant|restaurant-area=north|restaurant-pricerange=expensive
+46,find_restaurant|restaurant-area=centre|restaurant-food=italian
+47,find_restaurant
+48,find_restaurant|restaurant-area=centre|restaurant-pricerange=moderate
+49,find_hotel|hotel-name=and b guest house
+50,find_hotel
+51,find_hotel
+52,find_restaurant|restaurant-area=north|restaurant-pricerange=expensive
+53,find_hotel|hotel-stars=4|hotel-type=guesthouse
+54,find_hotel
+55,find_restaurant
+56,find_restaurant|restaurant-area=centre|restaurant-food=catalan
+57,find_restaurant
+58,find_restaurant|restaurant-area=west|restaurant-food=afghan
+59,find_restaurant|restaurant-food=portuguese
+60,find_hotel
+61,find_hotel|hotel-name=lensfield hotel
+62,find_hotel|hotel-name=flinches bed and breakfast
+63,find_hotel
+64,find_restaurant
+65,find_restaurant|restaurant-food=panasian|restaurant-pricerange=expensive
+66,find_hotel|hotel-stars=4
+67,find_hotel|hotel-area=south|hotel-parking=yes
+68,find_restaurant|restaurant-area=east|restaurant-pricerange=cheap
+69,find_restaurant|restaurant-food=indian|restaurant-pricerange=expensive
+70,find_restaurant|restaurant-name=nandos
+71,find_hotel
+72,find_hotel|hotel-parking=yes|hotel-type=guesthouse
+73,find_hotel|hotel-type=guesthouse
+74,find_restaurant|restaurant-area=centre
+75,find_restaurant
+76,find_restaurant|restaurant-pricerange=cheap
+77,find_restaurant
+78,find_hotel
+79,find_hotel|hotel-area=south|hotel-type=hotel
+80,find_restaurant|restaurant-area=centre|restaurant-food=indian
+81,find_restaurant|restaurant-area=east|restaurant-food=gastropub
+82,find_restaurant|restaurant-name=cocum
+83,find_restaurant|restaurant-area=centre|restaurant-food=asian oriental
+84,find_hotel
+85,find_restaurant|restaurant-area=centre|restaurant-food=mexican
+86,find_restaurant|restaurant-area=centre
+87,find_restaurant|restaurant-food=british|restaurant-pricerange=moderate
+88,find_restaurant|restaurant-area=centre|restaurant-food=halal
+89,find_restaurant
+90,find_hotel|hotel-parking=yes
+91,find_restaurant|restaurant-area=centre|restaurant-food=venetian
+92,find_restaurant|restaurant-food=indian
+93,find_hotel|hotel-pricerange=expensive|hotel-stars=4
+94,find_restaurant|restaurant-name=cocum
+95,find_restaurant|restaurant-name=slug and lettuce
+96,find_restaurant
+97,find_restaurant|restaurant-food=chinese|restaurant-pricerange=expensive
+98,find_restaurant|restaurant-area=centre
+99,find_restaurant|restaurant-food=corsica|restaurant-pricerange=cheap
+100,find_restaurant
+101,find_hotel|hotel-parking=yes
+102,find_restaurant
+103,find_hotel|hotel-name=el shaddai
+104,find_restaurant|restaurant-food=italian
+105,find_hotel|hotel-pricerange=cheap
+106,find_restaurant|restaurant-food=mediterranean
+107,find_restaurant|restaurant-food=modern european|restaurant-pricerange=expensive
+108,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+109,find_restaurant|restaurant-food=african|restaurant-pricerange=expensive
+110,find_hotel|hotel-area=north|hotel-type=guesthouse
+111,find_restaurant|restaurant-food=indian
+112,find_hotel|hotel-stars=2
+113,find_restaurant|restaurant-area=centre|restaurant-food=chinese
+114,find_hotel|hotel-name=university arms hotel
+115,find_restaurant|restaurant-food=italian
+116,find_restaurant|restaurant-name=city centre north b and b
+117,find_restaurant|restaurant-name=`` restaurant one seven
+118,find_restaurant|restaurant-food=vegetarian|restaurant-pricerange=expensive
+119,find_hotel
+120,find_hotel
+121,find_restaurant
+122,find_restaurant|restaurant-food=indian|restaurant-pricerange=moderate
+123,find_restaurant|restaurant-name=thanh binh
+124,find_hotel|hotel-area=north
+125,find_restaurant|restaurant-area=centre
+126,find_hotel|hotel-parking=yes|hotel-pricerange=cheap
+127,find_restaurant
+128,find_hotel|hotel-area=north|hotel-type=hotel
+129,find_restaurant|restaurant-name=bangkok city
+130,find_restaurant|restaurant-area=north|restaurant-pricerange=cheap
+131,find_restaurant|restaurant-area=centre|restaurant-pricerange=cheap
+132,find_hotel|hotel-name=aylesbray lodge guest house
+133,find_hotel|hotel-parking=yes|hotel-type=hotel
+134,find_restaurant|restaurant-food=brazilian|restaurant-pricerange=cheap
+135,find_hotel
+136,find_restaurant|restaurant-area=east|restaurant-pricerange=expensive
+137,find_hotel|hotel-parking=yes|hotel-type=hotel
+138,find_restaurant|restaurant-area=centre|restaurant-pricerange=moderate
+139,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+140,find_hotel|hotel-parking=yes
+141,find_restaurant|restaurant-food=italian|restaurant-pricerange=expensive
+142,find_hotel|hotel-stars=4
+143,find_hotel
+144,find_hotel|hotel-pricerange=cheap
+145,find_hotel|hotel-internet=yes|hotel-type=guesthouse
+146,find_restaurant|restaurant-area=east|restaurant-food=chinese
+147,find_restaurant|restaurant-food=caribbean
+148,find_hotel|hotel-type=guesthouse
+149,find_hotel|hotel-pricerange=expensive
+150,find_hotel|hotel-name=warkworth house
+151,find_hotel|hotel-stars=3
+152,find_restaurant|restaurant-area=centre|restaurant-pricerange=cheap
+153,find_hotel|hotel-area=north
+154,find_hotel|hotel-parking=yes|hotel-type=guesthouse
+155,find_restaurant|restaurant-area=east
+156,find_hotel|hotel-name=aylesbray lodge guest house
+157,find_restaurant|restaurant-area=centre
+158,find_hotel|hotel-parking=yes
+159,find_restaurant|restaurant-name=city stop restaurant
+160,find_restaurant|restaurant-food=chinese|restaurant-pricerange=expensive
+161,find_restaurant|restaurant-area=centre|restaurant-food=british
+162,find_hotel
+163,find_restaurant
+164,find_restaurant|restaurant-food=british|restaurant-pricerange=expensive
+165,find_restaurant|restaurant-area=centre|restaurant-food=vegetarian
+166,find_hotel|hotel-parking=yes
+167,find_hotel|hotel-area=east
+168,find_restaurant|restaurant-area=centre|restaurant-food=indian
+169,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+170,find_restaurant|restaurant-area=centre|restaurant-food=chinese
+171,find_restaurant
+172,find_restaurant|restaurant-food=british
+173,find_restaurant
+174,find_restaurant|restaurant-food=indian
+175,find_hotel|hotel-parking=yes|hotel-pricerange=cheap
+176,find_hotel|hotel-area=centre|hotel-type=hotel
+177,find_restaurant|restaurant-area=centre|restaurant-food=corsica
+178,find_restaurant|restaurant-area=centre|restaurant-food=jamaican
+179,find_restaurant|restaurant-food=british|restaurant-pricerange=expensive
+180,find_restaurant|restaurant-area=centre|restaurant-food=european
+181,find_hotel|hotel-name=hamilton lodge
+182,find_hotel|hotel-area=north|hotel-type=guesthouse
+183,find_hotel
+184,find_hotel|hotel-area=north|hotel-type=guesthouse
+185,find_restaurant|restaurant-food=gastropub
+186,find_restaurant|restaurant-area=centre|restaurant-food=italian
+187,find_restaurant|restaurant-area=centre|restaurant-food=international
+188,find_restaurant|restaurant-food=african|restaurant-pricerange=moderate
+189,find_restaurant|restaurant-food=chinese|restaurant-pricerange=expensive
+190,find_restaurant|restaurant-area=west|restaurant-food=british
+191,find_hotel|hotel-name=finches bed and breakfast
+192,find_restaurant|restaurant-food=danish|restaurant-pricerange=expensive
+193,find_hotel|hotel-name=worth house
+194,find_restaurant|restaurant-area=centre
+195,find_hotel|hotel-name=warkworth house
+196,find_hotel|hotel-parking=yes
+197,find_restaurant|restaurant-area=west
+198,find_restaurant|restaurant-food=mediterranean|restaurant-pricerange=expensive
+199,find_hotel|hotel-parking=yes
+200,find_hotel
+201,find_hotel|hotel-name=huntingdon marriott hotel
+202,find_hotel
+203,find_restaurant|restaurant-area=centre|restaurant-food=indian
+204,find_restaurant|restaurant-name=prezzo
+205,find_restaurant|restaurant-area=west|restaurant-food=european
+206,find_restaurant|restaurant-area=south|restaurant-food=vietnamese
+207,find_restaurant|restaurant-area=east|restaurant-pricerange=moderate
+208,find_restaurant|restaurant-area=south|restaurant-pricerange=expensive
+209,find_hotel|hotel-type=hotel
+210,find_restaurant|restaurant-food=chinese
+211,find_hotel|hotel-name=warkworth house
+212,find_hotel|hotel-name=carolina bed and breakfast
+213,find_hotel
+214,find_hotel|hotel-stars=4
+215,find_restaurant|restaurant-food=indian|restaurant-pricerange=expensive
+216,find_hotel|hotel-pricerange=cheap
+217,find_restaurant|restaurant-name=kohinoor
+218,find_hotel|hotel-parking=yes
+219,find_restaurant|restaurant-area=centre|restaurant-pricerange=cheap
+220,find_hotel|hotel-type=guesthouse
+221,find_restaurant|restaurant-area=south|restaurant-food=italian
+222,find_hotel|hotel-parking=yes|hotel-stars=0|hotel-type=hotel
+223,find_hotel|hotel-parking=yes|hotel-stars=4
+224,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+225,find_hotel
+226,find_hotel|hotel-area=east|hotel-pricerange=expensive|hotel-type=hotel
+227,find_restaurant|restaurant-food=italian|restaurant-pricerange=expensive
+228,find_hotel|hotel-parking=yes|hotel-type=guesthouse guesthouse
+229,find_hotel|hotel-type=guesthouse
+230,find_restaurant|restaurant-food=british
+231,find_restaurant|restaurant-food=turkish|restaurant-pricerange=moderate
+232,find_hotel|hotel-area=north
+233,find_hotel|hotel-name=warkworth house
+234,find_restaurant|restaurant-food=indian|restaurant-pricerange=cheap
+235,find_hotel|hotel-area=centre|hotel-pricerange=expensive
+236,find_hotel|hotel-name=gonville hotel
+237,find_hotel|hotel-name=arbury lodge guesthouse
+238,find_hotel
+239,find_hotel|hotel-name=and b guest house
+240,find_restaurant
+241,find_hotel|hotel-pricerange=expensive|hotel-type=guesthouse
+242,find_hotel|hotel-name=ashley hotel
+243,find_restaurant|restaurant-area=centre|restaurant-food=italian
+244,find_hotel
+245,find_restaurant|restaurant-name=midsummer house
+246,find_restaurant|restaurant-area=centre
+247,find_restaurant|restaurant-area=centre|restaurant-food=north indian
+248,find_hotel|hotel-pricerange=cheap
+249,find_hotel|hotel-name=archway house
+250,find_hotel
+251,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+252,find_hotel|hotel-parking=yes|hotel-type=guesthouse
+253,find_hotel|hotel-area=east|hotel-internet=yes
+254,find_restaurant|restaurant-area=east|restaurant-pricerange=moderate
+255,find_hotel|hotel-parking=yes|hotel-type=guesthouse
+256,find_restaurant|restaurant-area=centre|restaurant-food=molecular gastronomy
+257,find_restaurant|restaurant-name=mahal of cambridge
+258,find_restaurant|restaurant-food=indian
+259,find_hotel|hotel-name=limehouse
+260,find_hotel|hotel-area=south|hotel-parking=yes
+261,find_restaurant|restaurant-area=centre|restaurant-food=modern european
+262,find_restaurant
+263,find_hotel|hotel-name=cityroomz
+264,find_hotel|hotel-name=hobsons house
+265,find_hotel|hotel-type=guesthouse
+266,find_hotel|hotel-parking=yes|hotel-pricerange=expensive
+267,find_restaurant|restaurant-area=centre|restaurant-food=mediterranean
+268,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+269,find_restaurant|restaurant-food=chinese
+270,find_restaurant|restaurant-area=east|restaurant-pricerange=cheap
+271,find_restaurant|restaurant-food=chinese|restaurant-pricerange=expensive
+272,find_restaurant
+273,find_restaurant|restaurant-name=curry garden
+274,find_restaurant|restaurant-food=italian|restaurant-pricerange=expensive
+275,find_hotel
+276,find_hotel|hotel-parking=yes|hotel-stars=3
+277,find_restaurant|restaurant-area=centre
+278,find_restaurant|restaurant-food=belgian|restaurant-pricerange=cheap
+279,find_hotel|hotel-internet=yes|hotel-parking=yes
+280,find_hotel|hotel-pricerange=cheap
+281,find_restaurant
+282,find_hotel|hotel-name=archway house
+283,find_restaurant|restaurant-name=the varsity restaurant
+284,find_hotel
+285,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+286,find_hotel
+287,find_hotel|hotel-stars=3
+288,find_restaurant|restaurant-area=south|restaurant-pricerange=expensive
+289,find_hotel
+290,find_hotel|hotel-area=east|hotel-stars=4|hotel-type=hotel
+291,find_restaurant
+292,find_hotel|hotel-pricerange=cheap
+293,find_restaurant|restaurant-name=meze bar
+294,find_hotel|hotel-name=allenbell
+295,find_restaurant|restaurant-food=indian|restaurant-pricerange=expensive
+296,find_hotel|hotel-area=south|hotel-pricerange=expensive
+297,find_restaurant|restaurant-food=asian oriental
+298,find_hotel|hotel-name=aylesbray lodge guest house
+299,find_hotel|hotel-parking=yes|hotel-pricerange=moderate
+300,find_restaurant|restaurant-area=centre|restaurant-food=british
+301,find_restaurant|restaurant-area=east|restaurant-food=indian
+302,find_restaurant
+303,find_hotel|hotel-stars=3
+304,find_restaurant|restaurant-area=centre|restaurant-food=british
+305,find_hotel
+306,find_hotel|hotel-pricerange=expensive|hotel-stars=3|hotel-type=hotel
+307,find_restaurant|restaurant-food=indian
+308,find_restaurant|restaurant-food=modern global|restaurant-pricerange=expensive
+309,find_hotel|hotel-type=guesthouse
+310,find_hotel|hotel-area=east
+311,find_restaurant|restaurant-food=spanish|restaurant-pricerange=cheap
+312,find_restaurant|restaurant-area=east
+313,find_hotel|hotel-pricerange=expensive
+314,find_restaurant|restaurant-food=afternoon tea|restaurant-pricerange=expensive
+315,find_restaurant|restaurant-area=centre|restaurant-food=chinese
+316,find_hotel|hotel-name=and b guest house
+317,find_restaurant|restaurant-name=little seoul
+318,find_hotel|hotel-pricerange=expensive|hotel-type=hotel
+319,find_hotel|hotel-name=warkworth house
+320,find_restaurant|restaurant-food=modern european
+321,find_hotel|hotel-area=east|hotel-pricerange=expensive|hotel-type=hotel
+322,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+323,find_hotel
+324,find_restaurant
+325,find_hotel|hotel-pricerange=cheap
+326,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+327,find_restaurant|restaurant-area=east|restaurant-food=canapes
+328,find_restaurant
+329,find_hotel
+330,find_restaurant|restaurant-name=la raza
+331,find_hotel
+332,find_hotel|hotel-area=north
+333,find_hotel
+334,find_hotel|hotel-stars=3|hotel-type=guesthouse
+335,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+336,find_restaurant|restaurant-area=centre|restaurant-pricerange=cheap
+337,find_restaurant|restaurant-area=south|restaurant-food=african
+338,find_hotel|hotel-parking=yes|hotel-pricerange=expensive|hotel-type=hotel
+339,find_restaurant|restaurant-food=mexican|restaurant-pricerange=expensive
+340,find_hotel
+341,find_hotel|hotel-parking=yes
+342,find_restaurant|restaurant-area=centre
+343,find_hotel|hotel-name=acorn guest house
+344,find_restaurant|restaurant-name=golden wok
+345,find_restaurant
+346,find_hotel|hotel-name=cambridge belfry
+347,find_restaurant|restaurant-food=asian|restaurant-pricerange=cheap
+348,find_hotel|hotel-pricerange=cheap|hotel-type=guesthouse
+349,find_restaurant
+350,find_restaurant|restaurant-name=india house
+351,find_hotel|hotel-area=centre|hotel-parking=yes
+352,find_restaurant|restaurant-name=loch fyne
+353,find_hotel|hotel-parking=yes
+354,find_restaurant|restaurant-name=la margherita
+355,find_restaurant|restaurant-food=chinese
+356,find_hotel|hotel-pricerange=expensive
+357,find_hotel|hotel-parking=yes|hotel-pricerange=expensive
+358,find_hotel|hotel-area=north
+359,find_hotel
+360,find_hotel
+361,find_restaurant|restaurant-name=saigon city
+362,find_restaurant|restaurant-pricerange=cheap
+363,find_hotel|hotel-area=centre
+364,find_restaurant|restaurant-name=stazione restaurant and coffee bar
+365,find_hotel|hotel-stars=4
+366,find_restaurant|restaurant-name=nandos city centre
+367,find_hotel|hotel-stars=3
+368,find_hotel|hotel-name=el shaddai
+369,find_hotel|hotel-pricerange=moderate|hotel-type=hotel
+370,find_hotel|hotel-name=autumn house
+371,find_restaurant|restaurant-area=centre
+372,find_restaurant|restaurant-name=darrys cookhouse and wine shop
+373,find_hotel|hotel-name=cityroomz
+374,find_hotel
+375,find_restaurant|restaurant-food=turkish|restaurant-pricerange=expensive
+376,find_hotel|hotel-name=warkworth house
+377,find_hotel|hotel-parking=yes
+378,find_hotel|hotel-stars=4|hotel-type=hotel
+379,find_restaurant|restaurant-area=south|restaurant-pricerange=expensive
+380,find_restaurant|restaurant-area=centre|restaurant-food=eritrean
+381,find_restaurant
+382,find_restaurant
+383,find_restaurant|restaurant-area=centre|restaurant-food=international
+384,find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+385,find_restaurant|restaurant-pricerange=expensive
+386,find_restaurant|restaurant-area=north|restaurant-food=italian
+387,find_restaurant|restaurant-area=east|restaurant-pricerange=expensive
+388,find_hotel
+389,find_restaurant|restaurant-food=mediterranean
+390,find_restaurant|restaurant-food=gastropub|restaurant-pricerange=expensive
+391,find_restaurant|restaurant-area=centre|restaurant-food=hungarian
+392,find_restaurant
+393,find_restaurant|restaurant-area=west|restaurant-pricerange=expensive
+394,find_restaurant|restaurant-area=south|restaurant-food=european
+395,find_hotel|hotel-area=north|hotel-pricerange=cheap
+396,find_hotel
+397,find_restaurant|restaurant-area=north|restaurant-food=indian
+398,find_restaurant|restaurant-area=centre|restaurant-food=chinese
+399,find_hotel|hotel-parking=yes|hotel-type=guesthouse
